@@ -1,1 +1,1 @@
-# pro - it means projects during my learning frontend
+# pro - it means "projects" during my learning frontend
